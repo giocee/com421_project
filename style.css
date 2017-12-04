@@ -70,7 +70,6 @@
     font-weight: 700;
     text-decoration: underline;
 }
-}
 #instruction p{
     font-family: 'Lato', sans-serif;
     text-align: center;
@@ -104,7 +103,7 @@
 }
 #alternatives a{
     font-family: 'Lato', sans-serif;
-    list-style-type: none;
+    list-decoration: none;
     font-size: 9pt;
 }
 
