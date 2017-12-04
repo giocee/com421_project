@@ -102,7 +102,7 @@
     list-style-position: inside;
     font-size: 16pt;
 }
-#alternatives li a{
+#alternatives a{
     font-family: 'Lato', sans-serif;
     list-style-type: none;
     font-size: 9pt;
