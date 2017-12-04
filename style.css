@@ -14,14 +14,14 @@
     border-bottom: 3px solid darkgray;
 }
 #nav ul li {
-    margin: 0 15px;
+    margin: 0 5px;
     display: inline-block;
 }
 #nav ul li a {
     clear: left;   
     text-decoration: none;
     color: darkgray;
-    font-size: 19px;
+    font-size: 17px;
     padding: 20px;
 }
 #nav ul li a:hover{
